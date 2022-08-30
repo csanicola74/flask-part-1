@@ -27,7 +27,3 @@ def about():
 @app.route('/contact/')
 def contact():
     return '<h3>If you would like to contact us, please don\'t.</h3>'
-
-
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=80)
