@@ -8,7 +8,7 @@ Assignment #2
 # 4. $ pip3 install Flask
 # 5. git clone https://github.com/csanicola74/flask-part-1.git
 # 6. cd flask-part-1
-
+# 7. sudo python3 app.py
 
 # GCP deployment link:
 
