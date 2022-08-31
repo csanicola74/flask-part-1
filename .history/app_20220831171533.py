@@ -1,5 +1,5 @@
 # the below imports the Flask object from the flask package
-from flask import Flask, abort
+from flask import Flask
 
 # creating the Flask application instance and give it the name app
 app = Flask(__name__)
