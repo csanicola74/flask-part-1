@@ -14,11 +14,11 @@ Assignment #2
 
 
 # GCP deployment link:
-http://35.184.194.202 
-http://35.184.194.202/about 
-http://35.184.194.202/contact
+http://34.136.85.112/
+http://34.136.85.112/about/ 
+http://34.136.85.112/contact/
 
 # Azure deployment link:
 http://20.169.14.194
-http://20.169.14.194/about
-http://20.169.14.194/contact
+http://20.169.14.194/about/
+http://20.169.14.194/contact/
